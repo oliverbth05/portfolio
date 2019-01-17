@@ -1,9 +1,9 @@
 {
-  "main.css": "/static/css/main.b6f59e99.chunk.css",
-  "main.js": "/static/js/main.5ab16b98.chunk.js",
-  "main.js.map": "/static/js/main.5ab16b98.chunk.js.map",
-  "static/js/1.bd68a779.chunk.js": "/static/js/1.bd68a779.chunk.js",
-  "static/js/1.bd68a779.chunk.js.map": "/static/js/1.bd68a779.chunk.js.map",
+  "main.css": "/static/css/main.ad3c11f8.chunk.css",
+  "main.js": "/static/js/main.d818f994.chunk.js",
+  "main.js.map": "/static/js/main.d818f994.chunk.js.map",
+  "static/js/1.2dc4c136.chunk.js": "/static/js/1.2dc4c136.chunk.js",
+  "static/js/1.2dc4c136.chunk.js.map": "/static/js/1.2dc4c136.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/streamer1.PNG": "/static/media/streamer1.bd55547d.PNG",
@@ -14,9 +14,10 @@
   "static/media/streamer3.PNG": "/static/media/streamer3.45f8df0f.PNG",
   "static/media/news-aggregator2.PNG": "/static/media/news-aggregator2.a123f0f1.PNG",
   "static/media/news-aggregator3.PNG": "/static/media/news-aggregator3.84dbdb0d.PNG",
+  "static/media/index.scss": "/static/media/home5.3b77c38b.jpg",
   "static/media/forum1.PNG": "/static/media/forum1.197cc3d6.PNG",
-  "static/css/main.b6f59e99.chunk.css.map": "/static/css/main.b6f59e99.chunk.css.map",
+  "static/css/main.ad3c11f8.chunk.css.map": "/static/css/main.ad3c11f8.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.9ab47489a2028a7f7827c45b8dab3a71.js": "/precache-manifest.9ab47489a2028a7f7827c45b8dab3a71.js",
+  "precache-manifest.971725b65b9193fae8db82276fe40c42.js": "/precache-manifest.971725b65b9193fae8db82276fe40c42.js",
   "service-worker.js": "/service-worker.js"
 }

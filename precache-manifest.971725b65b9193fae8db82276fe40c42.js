@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/forum2.65dc1820.PNG"
   },
   {
-    "revision": "5ab16b9816e60d1d3ad7",
-    "url": "/static/css/main.b6f59e99.chunk.css"
+    "revision": "d818f994203455a055c2",
+    "url": "/static/css/main.ad3c11f8.chunk.css"
   },
   {
-    "revision": "bd68a77912bc3e76329f",
-    "url": "/static/js/1.bd68a779.chunk.js"
+    "revision": "2dc4c136570590b40919",
+    "url": "/static/js/1.2dc4c136.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/news-aggregator1.01b8d69c.PNG"
   },
   {
-    "revision": "5ab16b9816e60d1d3ad7",
-    "url": "/static/js/main.5ab16b98.chunk.js"
+    "revision": "d818f994203455a055c2",
+    "url": "/static/js/main.d818f994.chunk.js"
   },
   {
     "revision": "f13f07b42c6bbc8c762e48689e914ca9",
@@ -52,7 +52,11 @@ self.__precacheManifest = [
     "url": "/static/media/news-aggregator3.84dbdb0d.PNG"
   },
   {
-    "revision": "5fb18e7aaf816fad9a1311bce6ba1ede",
+    "revision": "3b77c38b2ffceaebcf72801f3086e035",
+    "url": "/static/media/home5.3b77c38b.jpg"
+  },
+  {
+    "revision": "426190b0d46041461840e220fcf0e517",
     "url": "/index.html"
   }
 ];
